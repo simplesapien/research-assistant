@@ -1,0 +1,125 @@
+{
+  "researchInsights": [
+    {
+      "content": "Stay vigilant of technological paradigm shifts including AR, QR codes, and hardware cost reductions for market opportunities",
+      "type": "trend_analysis",
+      "confidence": 0.85,
+      "metadata": {
+        "tags": ["technology", "market-trends", "innovation", "hardware"],
+        "createdAt": "2024-03-20T00:00:00.000Z",
+        "updatedAt": "2024-03-20T00:00:00.000Z",
+        "useCount": 0
+      }
+    },
+    {
+      "content": "Track and capitalize on seasonal events and one-time phenomena like eclipses and elections for market timing",
+      "type": "market_timing",
+      "confidence": 0.9,
+      "metadata": {
+        "tags": ["seasonality", "events", "market-timing", "opportunities"],
+        "createdAt": "2024-03-20T00:00:00.000Z",
+        "updatedAt": "2024-03-20T00:00:00.000Z",
+        "useCount": 0
+      }
+    },
+    {
+      "content": "Identify and analyze counter-narratives and emerging trends for unique market positioning",
+      "type": "strategic_insight",
+      "confidence": 0.8,
+      "metadata": {
+        "tags": ["market-positioning", "trend-analysis", "strategy"],
+        "createdAt": "2024-03-20T00:00:00.000Z",
+        "updatedAt": "2024-03-20T00:00:00.000Z",
+        "useCount": 0
+      }
+    },
+    {
+      "content": "Deep immersion in target audience media consumption habits (publications, podcasts, webinars) is crucial for market understanding",
+      "type": "research_methodology",
+      "confidence": 0.95,
+      "metadata": {
+        "tags": ["audience-research", "media-consumption", "market-research"],
+        "createdAt": "2024-03-20T00:00:00.000Z",
+        "updatedAt": "2024-03-20T00:00:00.000Z",
+        "useCount": 0
+      }
+    },
+    {
+      "content": "Look for outdated products or industries ready for rebranding, similar to Bandaids → Welly transformation",
+      "type": "opportunity_analysis",
+      "confidence": 0.85,
+      "metadata": {
+        "tags": ["rebranding", "market-opportunity", "product-innovation"],
+        "createdAt": "2024-03-20T00:00:00.000Z",
+        "updatedAt": "2024-03-20T00:00:00.000Z",
+        "useCount": 0
+      }
+    },
+    {
+      "content": "Focus on emerging fields for easier differentiation or find overlooked gaps in competitive markets",
+      "type": "strategic_insight",
+      "confidence": 0.9,
+      "metadata": {
+        "tags": ["market-entry", "competition", "differentiation"],
+        "createdAt": "2024-03-20T00:00:00.000Z",
+        "updatedAt": "2024-03-20T00:00:00.000Z",
+        "useCount": 0
+      }
+    },
+    {
+      "content": "Ahrefs metrics are most valuable for backlink analysis, keyword research, and content gap identification rather than absolute traffic numbers",
+      "type": "tool_insight",
+      "confidence": 0.85,
+      "metadata": {
+        "tags": ["tools", "ahrefs", "seo", "market-research"],
+        "createdAt": "2024-03-20T00:00:00.000Z",
+        "updatedAt": "2024-03-20T00:00:00.000Z",
+        "useCount": 0
+      }
+    },
+    {
+      "content": "SimilarWeb's strength lies in broader market analysis rather than specific metrics",
+      "type": "tool_insight",
+      "confidence": 0.8,
+      "metadata": {
+        "tags": ["tools", "similarweb", "market-analysis"],
+        "createdAt": "2024-03-20T00:00:00.000Z",
+        "updatedAt": "2024-03-20T00:00:00.000Z",
+        "useCount": 0
+      }
+    },
+    {
+      "content": "AI tools like GPT are valuable for initial exploration but require validation and proper context-setting for accurate results",
+      "type": "methodology",
+      "confidence": 0.9,
+      "metadata": {
+        "tags": ["ai-tools", "research-methodology", "validation"],
+        "createdAt": "2024-03-20T00:00:00.000Z",
+        "updatedAt": "2024-03-20T00:00:00.000Z",
+        "useCount": 0
+      }
+    },
+    {
+      "content": "Facebook groups, while accessible, often contain low-quality information requiring careful filtering",
+      "type": "platform_insight",
+      "confidence": 0.95,
+      "metadata": {
+        "tags": ["social-media", "research-quality", "information-filtering"],
+        "createdAt": "2024-03-20T00:00:00.000Z",
+        "updatedAt": "2024-03-20T00:00:00.000Z",
+        "useCount": 0
+      }
+    },
+    {
+        "content": "Self-directed curiosity-driven exploration can yield better results than strictly following AI or tool suggestions",
+        "type": "methodology",
+        "confidence": 0.85,
+        "metadata": {
+          "tags": ["research-methodology", "exploration", "self-directed-research"],
+          "createdAt": "2024-03-20T00:00:00.000Z",
+          "updatedAt": "2024-03-20T00:00:00.000Z",
+          "useCount": 0
+        }
+      }
+  ]
+}

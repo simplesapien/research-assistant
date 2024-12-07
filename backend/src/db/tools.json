@@ -1,0 +1,2774 @@
+{
+    "tools": [
+        {
+            "id": "ahrefs",
+            "name": "Ahrefs",
+            "url": "https://ahrefs.com",
+            "description": "Comprehensive SEO and content research platform for analyzing websites and content performance",
+            "type": "tool",
+            "pricing": "paid",
+            "tags": [
+                "seo",
+                "competitor-analysis",
+                "content-research",
+                "backlink-analysis",
+                "keyword-research",
+                "market-research",
+                "traffic-analysis"
+            ],
+            "useCases": [
+                {
+                    "description": "Analyze seasonality and traffic patterns on competitor websites",
+                    "method": [
+                        "Enter competitor domain in Site Explorer",
+                        "Navigate to Organic Traffic report",
+                        "Sort top pages by organic search traffic",
+                        "Analyze backlink profiles",
+                        "Identify seasonal content patterns"
+                    ]
+                },
+                {
+                    "description": "Research successful content in your market",
+                    "method": [
+                        "Use Content Explorer",
+                        "Enter relevant topic keywords",
+                        "Sort by traffic, shares, or backlinks",
+                        "Analyze top-performing content formats",
+                        "Identify content gaps in the market"
+                    ]
+                },
+                {
+                    "description": "Use Keywords Explorer for in-depth keyword research",
+                    "method": [
+                        "Navigate to Keywords Explorer",
+                        "Enter target keywords",
+                        "Review keyword metrics, such as volume and difficulty",
+                        "Identify keyword variations",
+                        "Analyze content ideas based on keyword potential"
+                    ]
+                },
+                {
+                    "description": "Explore backlink opportunities with Ahrefs Web Explorer",
+                    "method": [
+                        "Navigate to Web Explorer",
+                        "Set filters for dofollow domains and relevant keywords",
+                        "Find potential backlink sources for specific topics",
+                        "Analyze backlinks for competitor analysis",
+                        "Reach out for potential link building"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "erank",
+            "name": "eRank",
+            "url": "https://erank.com",
+            "description": "Etsy market research and optimization tool",
+            "type": "tool",
+            "pricing": "freemium",
+            "tags": [
+                "etsy-research",
+                "market-analysis",
+                "keyword-research",
+                "competitor-analysis",
+                "trend-tracking"
+            ],
+            "useCases": [
+                {
+                    "description": "Research handmade and custom product markets",
+                    "method": [
+                        "Analyze trending items",
+                        "Research keywords",
+                        "Track competitor shops",
+                        "Monitor price points",
+                        "Identify seasonal trends"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "google-trends",
+            "name": "Google Trends",
+            "url": "https://trends.google.com",
+            "description": "Track search interest over time, compare terms, and analyze geographical search patterns",
+            "type": "tool",
+            "pricing": "free",
+            "tags": [
+                "trend-analysis",
+                "market-research",
+                "seasonality",
+                "geographic-data",
+                "search-patterns",
+                "comparative-analysis"
+            ],
+            "useCases": [
+                {
+                    "description": "Detect seasonality and traffic spikes for market opportunities",
+                    "method": [
+                        "Enter key search terms related to your market",
+                        "Set timeframe to past 5 years to identify patterns",
+                        "Compare multiple related terms",
+                        "Check geographical differences in interest",
+                        "Export data for deeper analysis"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "github-trending",
+            "name": "GitHub Trending",
+            "url": "https://github.com/trending",
+            "description": "Discover trending repositories and new technologies on GitHub",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "technical-research",
+                "trend-discovery",
+                "api-research",
+                "developer-tools",
+                "open-source"
+            ],
+            "useCases": [
+                {
+                    "description": "Find new APIs and emerging technologies",
+                    "method": [
+                        "Visit GitHub Trending page",
+                        "Filter by relevant programming languages",
+                        "Search for keywords: 'api', 'v1', 'graphql'",
+                        "Check star history and contributor activity",
+                        "Review documentation and use cases"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "rapidapi",
+            "name": "RapidAPI",
+            "url": "https://rapidapi.com",
+            "description": "Marketplace for discovering and connecting to APIs",
+            "type": "platform",
+            "pricing": "freemium",
+            "tags": [
+                "api-discovery",
+                "technical-research",
+                "developer-tools",
+                "integration",
+                "marketplace"
+            ],
+            "useCases": [
+                {
+                    "description": "Research available APIs for your market",
+                    "method": [
+                        "Search by category or keyword",
+                        "Compare API pricing and features",
+                        "Check API reliability metrics",
+                        "Review documentation and endpoints",
+                        "Test APIs through the platform"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "postman",
+            "name": "Postman",
+            "url": "https://postman.com",
+            "description": "API development and testing platform for seamless integration and debugging",
+            "type": "tool",
+            "pricing": "freemium",
+            "tags": [
+                "api-development",
+                "testing",
+                "integration",
+                "automation",
+                "developer-tools"
+            ],
+            "useCases": [
+                {
+                    "description": "Test APIs and verify responses",
+                    "method": [
+                        "Import API collections",
+                        "Send requests to API endpoints",
+                        "Check response status and data",
+                        "Automate test cases",
+                        "Export results for analysis"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "apify",
+            "name": "Apify",
+            "url": "https://apify.com",
+            "description": "Platform for web scraping and automation using APIs and custom solutions",
+            "type": "platform",
+            "pricing": "freemium",
+            "tags": [
+                "web-scraping",
+                "automation",
+                "api-integration",
+                "data-collection",
+                "technical-research"
+            ],
+            "useCases": [
+                {
+                    "description": "Discover APIs and scrapers for data collection",
+                    "method": [
+                        "Search for relevant scrapers",
+                        "Set up custom scrapers or APIs",
+                        "Configure data extraction parameters",
+                        "Automate data collection processes",
+                        "Export data for further use"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "huggingface",
+            "name": "Hugging Face",
+            "url": "https://huggingface.co",
+            "description": "Platform for discovering and using AI models, datasets, and papers",
+            "type": "platform",
+            "pricing": "freemium",
+            "tags": [
+                "ai-research",
+                "machine-learning",
+                "model-discovery",
+                "datasets",
+                "technical-research"
+            ],
+            "useCases": [
+                {
+                    "description": "Research available AI models and capabilities",
+                    "method": [
+                        "Browse models by task or technology",
+                        "Check model performance metrics",
+                        "Review implementation examples",
+                        "Analyze dataset availability",
+                        "Test models in Spaces"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "kaggle",
+            "name": "Kaggle",
+            "url": "https://kaggle.com",
+            "description": "Platform for data science competitions and datasets",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "data-science",
+                "datasets",
+                "market-research",
+                "trend-analysis",
+                "machine-learning"
+            ],
+            "useCases": [
+                {
+                    "description": "Find and analyze relevant datasets for market research",
+                    "method": [
+                        "Search datasets by topic",
+                        "Review data documentation",
+                        "Download datasets",
+                        "Analyze using notebooks",
+                        "Share findings with community"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "papers-with-code",
+            "name": "Papers with Code",
+            "url": "https://paperswithcode.com",
+            "description": "Platform linking research papers with code implementations",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "academic-research",
+                "machine-learning",
+                "code-repositories",
+                "technical-research",
+                "trend-analysis"
+            ],
+            "useCases": [
+                {
+                    "description": "Discover research papers with code for practical applications",
+                    "method": [
+                        "Search by research topic or algorithm",
+                        "Review code implementations",
+                        "Download and experiment with code",
+                        "Analyze performance metrics",
+                        "Track new advancements in research"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "replicate",
+            "name": "Replicate",
+            "url": "https://replicate.com",
+            "description": "Platform for discovering and deploying machine learning models",
+            "type": "platform",
+            "pricing": "freemium",
+            "tags": [
+                "machine-learning",
+                "model-discovery",
+                "data-science",
+                "technical-research",
+                "ai-tools"
+            ],
+            "useCases": [
+                {
+                    "description": "Deploy machine learning models without building from scratch",
+                    "method": [
+                        "Search available models by type or application",
+                        "Review model documentation",
+                        "Set up model deployment parameters",
+                        "Integrate model API in applications",
+                        "Monitor model performance"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "civitai",
+            "name": "Civitai",
+            "url": "https://civitai.com",
+            "description": "Platform for sharing community-driven AI models and resources",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "ai-research",
+                "machine-learning",
+                "community-driven",
+                "data-science",
+                "technical-research"
+            ],
+            "useCases": [
+                {
+                    "description": "Discover community-created AI models and datasets",
+                    "method": [
+                        "Browse models by category",
+                        "Review model applications and performance",
+                        "Download datasets for analysis",
+                        "Experiment with open-source models",
+                        "Connect with community contributors"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "key-values",
+            "name": "Key Values",
+            "url": "https://keyvalues.com",
+            "description": "Platform for understanding company culture through employee values",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "company-culture",
+                "employee-preferences",
+                "market-research",
+                "workplace-trends",
+                "social-research"
+            ],
+            "useCases": [
+                {
+                    "description": "Identify workplace culture trends and gaps",
+                    "method": [
+                        "Explore company profiles",
+                        "Read employee value statements",
+                        "Compare workplace values across industries",
+                        "Identify potential cultural gaps",
+                        "Analyze trends in employee preferences"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "builtwith",
+            "name": "BuiltWith",
+            "url": "https://builtwith.com",
+            "description": "Technology profiling tool for websites",
+            "type": "tool",
+            "pricing": "freemium",
+            "tags": [
+                "competitor-analysis",
+                "technology-stack",
+                "market-research",
+                "trend-analysis",
+                "technical-research"
+            ],
+            "useCases": [
+                {
+                    "description": "Analyze competitor technology stacks",
+                    "method": [
+                        "Enter competitor domain",
+                        "Review technology categories",
+                        "Track technology adoption trends",
+                        "Export technology reports",
+                        "Monitor technology changes"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "producthunt",
+            "name": "ProductHunt",
+            "url": "https://producthunt.com",
+            "description": "Platform to discover new products and emerging technologies",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "product-discovery",
+                "market-research",
+                "trend-tracking",
+                "innovation",
+                "community-driven"
+            ],
+            "useCases": [
+                {
+                    "description": "Identify new product launches and track market trends",
+                    "method": [
+                        "Browse daily featured products",
+                        "Check community feedback and votes",
+                        "Follow product categories",
+                        "Engage with creators and community",
+                        "Track emerging product trends"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "indiehackers",
+            "name": "IndieHackers",
+            "url": "https://indiehackers.com",
+            "description": "Community platform for entrepreneurs to share and discuss projects",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "community",
+                "entrepreneurship",
+                "market-research",
+                "product-ideas",
+                "startup-insights"
+            ],
+            "useCases": [
+                {
+                    "description": "Explore business ideas and market trends in a community of entrepreneurs",
+                    "method": [
+                        "Browse projects and discussions",
+                        "Engage with community feedback",
+                        "Identify successful business models",
+                        "Track popular project categories",
+                        "Learn from case studies and success stories"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "hacker-news",
+            "name": "Hacker News",
+            "url": "https://news.ycombinator.com",
+            "description": "Tech and startup news aggregation site for tracking industry trends",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "news-aggregation",
+                "trend-tracking",
+                "market-research",
+                "technology",
+                "community-discussion"
+            ],
+            "useCases": [
+                {
+                    "description": "Monitor discussions for insights into tech and startup trends",
+                    "method": [
+                        "Review daily trending posts",
+                        "Check comments for community feedback",
+                        "Identify recurring topics and trends",
+                        "Track engagement on tech articles",
+                        "Analyze community sentiment"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "uneed-best",
+            "name": "uneed.best",
+            "url": "https://uneed.best",
+            "description": "Recommendation platform for software and resources",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "resource-recommendation",
+                "software-discovery",
+                "market-research",
+                "community-driven",
+                "productivity-tools"
+            ],
+            "useCases": [
+                {
+                    "description": "Discover niche tools and software solutions",
+                    "method": [
+                        "Search by category or need",
+                        "Review community recommendations",
+                        "Explore curated lists of tools",
+                        "Compare software based on features",
+                        "Save recommended tools for later use"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "betalist",
+            "name": "BetaList",
+            "url": "https://betalist.com",
+            "description": "Platform to discover and follow early-stage startups",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "startup-discovery",
+                "early-adoption",
+                "product-ideas",
+                "market-research",
+                "trend-tracking"
+            ],
+            "useCases": [
+                {
+                    "description": "Identify new and emerging startups",
+                    "method": [
+                        "Browse startups by industry",
+                        "Follow projects for updates",
+                        "Engage with founders",
+                        "Check for community feedback",
+                        "Track innovative ideas in the early stages"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "angellist",
+            "name": "AngelList",
+            "url": "https://angel.co",
+            "description": "Platform to discover startups, jobs, and investment opportunities",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "startup-research",
+                "investment",
+                "market-research",
+                "trend-tracking",
+                "industry-insights"
+            ],
+            "useCases": [
+                {
+                    "description": "Research startups and analyze funding trends",
+                    "method": [
+                        "Browse startups by category",
+                        "Check recent funding rounds",
+                        "Analyze investor activity",
+                        "Engage with startups for insights",
+                        "Track industry investment patterns"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "exploding-topics",
+            "name": "Exploding Topics",
+            "url": "https://explodingtopics.com",
+            "description": "Platform for discovering rapidly growing trends across different industries",
+            "type": "tool",
+            "pricing": "freemium",
+            "tags": [
+                "trend-discovery",
+                "market-research",
+                "emerging-markets",
+                "industry-analysis",
+                "trend-validation"
+            ],
+            "useCases": [
+                {
+                    "description": "Identify emerging market trends early",
+                    "method": [
+                        "Browse trends by industry category",
+                        "Analyze trend growth patterns",
+                        "Review historical data",
+                        "Export trend data for further analysis",
+                        "Set up trend monitoring alerts"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "meet-glimpse",
+            "name": "Meet Glimpse",
+            "url": "https://meetglimpse.com",
+            "description": "Newsletter and platform highlighting emerging trends and opportunities",
+            "type": "newsletter",
+            "pricing": "freemium",
+            "tags": [
+                "trend-discovery",
+                "market-opportunities",
+                "newsletter",
+                "industry-insights"
+            ],
+            "useCases": [
+                {
+                    "description": "Stay updated on emerging market opportunities",
+                    "method": [
+                        "Subscribe to trend newsletter",
+                        "Review weekly trend reports",
+                        "Analyze trend validation data",
+                        "Cross-reference with other sources",
+                        "Track trend progression over time"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "gadget-flow",
+            "name": "Gadget Flow",
+            "url": "https://thegadgetflow.com",
+            "description": "Platform for discovering innovative products and gadgets",
+            "type": "platform",
+            "pricing": "freemium",
+            "tags": [
+                "product-discovery",
+                "innovation",
+                "market-trends",
+                "consumer-products",
+                "gadgets"
+            ],
+            "useCases": [
+                {
+                    "description": "Research trending consumer products and gadgets",
+                    "method": [
+                        "Browse daily featured gadgets",
+                        "Check community engagement",
+                        "Identify product categories with high demand",
+                        "Follow creator profiles",
+                        "Use filters to find unique products"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "indiegogo",
+            "name": "Indiegogo",
+            "url": "https://indiegogo.com",
+            "description": "Crowdfunding platform for discovering innovative projects and startups",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "crowdfunding",
+                "product-validation",
+                "market-research",
+                "consumer-demand",
+                "innovation"
+            ],
+            "useCases": [
+                {
+                    "description": "Identify popular crowdfunding projects and trends",
+                    "method": [
+                        "Browse trending projects",
+                        "Analyze funding success rates",
+                        "Check backer feedback",
+                        "Identify successful project categories",
+                        "Track new innovations across industries"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "kickstarter",
+            "name": "Kickstarter",
+            "url": "https://kickstarter.com",
+            "description": "Crowdfunding platform for creative projects and innovations",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "crowdfunding",
+                "innovation",
+                "market-validation",
+                "consumer-insights",
+                "product-ideas"
+            ],
+            "useCases": [
+                {
+                    "description": "Track market demand through popular projects",
+                    "method": [
+                        "Browse project categories",
+                        "Analyze funding success metrics",
+                        "Review consumer interest by project type",
+                        "Engage with creator updates",
+                        "Identify upcoming trends in consumer products"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "kernel",
+            "name": "Kernel",
+            "url": "https://kernel.com",
+            "description": "Platform for discovering trending product ideas and market insights",
+            "type": "tool",
+            "pricing": "freemium",
+            "tags": [
+                "trend-discovery",
+                "market-research",
+                "product-ideas",
+                "consumer-trends",
+                "innovation"
+            ],
+            "useCases": [
+                {
+                    "description": "Discover trending product ideas to understand market demand",
+                    "method": [
+                        "Browse trending products by category",
+                        "Analyze product growth rates",
+                        "Check historical performance",
+                        "Identify high-growth product areas",
+                        "Set alerts for new trends"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "connetively",
+            "name": "Connetively",
+            "url": "https://connetively.com",
+            "description": "Tool for monitoring popular discussion topics and trends",
+            "type": "tool",
+            "pricing": "paid",
+            "tags": [
+                "trend-monitoring",
+                "discussion-analysis",
+                "social-listening",
+                "market-research",
+                "consumer-trends"
+            ],
+            "useCases": [
+                {
+                    "description": "Monitor popular discussion topics to identify trends",
+                    "method": [
+                        "Set up keyword alerts",
+                        "Track discussion frequency",
+                        "Identify key discussion platforms",
+                        "Analyze user sentiment",
+                        "Export trending topics data"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "killedbygoogle",
+            "name": "Killed by Google",
+            "url": "https://killedbygoogle.com",
+            "description": "Archive of discontinued Google products",
+            "type": "resource",
+            "pricing": "free",
+            "tags": [
+                "product-research",
+                "innovation",
+                "product-failure",
+                "trend-analysis",
+                "market-opportunities"
+            ],
+            "useCases": [
+                {
+                    "description": "Identify potential opportunities by analyzing discontinued concepts",
+                    "method": [
+                        "Browse discontinued product list",
+                        "Analyze reasons for product failure",
+                        "Identify gaps left by discontinued products",
+                        "Research user feedback on discontinued ideas",
+                        "Consider revival or improvement opportunities"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "podengine",
+            "name": "PodEngine",
+            "url": "https://podengine.com",
+            "description": "Tool for monitoring podcast discussions and trends",
+            "type": "tool",
+            "pricing": "paid",
+            "tags": [
+                "podcast-research",
+                "content-monitoring",
+                "market-research",
+                "trend-detection",
+                "media-monitoring"
+            ],
+            "useCases": [
+                {
+                    "description": "Monitor industry discussions in podcasts",
+                    "method": [
+                        "Set up topic monitoring",
+                        "Track mention frequency",
+                        "Analyze discussion context",
+                        "Identify key opinion leaders",
+                        "Export insights for analysis"
+                    ]
+                },
+                {
+                    "description": "Uncover market segments, such as niche audiences",
+                    "method": [
+                        "Set search terms to identify market segments (e.g., 'pomodoro for parents')",
+                        "Track relevant podcast mentions",
+                        "Analyze listener engagement",
+                        "Evaluate potential market fit",
+                        "Identify content for targeted audiences"
+                    ]
+                },
+                {
+                    "description": "Find podcasters to contact for feedback, partnerships, or product testing",
+                    "method": [
+                        "Search podcasts discussing relevant topics",
+                        "Review podcaster contact information",
+                        "Identify influential podcasters in target market",
+                        "Track podcast popularity",
+                        "Initiate outreach for feedback or partnerships"
+                    ]
+                },
+                {
+                    "description": "Set alerts for future mentions of specific topics",
+                    "method": [
+                        "Configure alerts for keywords",
+                        "Monitor podcast mentions over time",
+                        "Track mentions in new podcast episodes",
+                        "Analyze frequency and timing of mentions",
+                        "Receive notifications for new discussions"
+                    ]
+                },
+                {
+                    "description": "Understand an unfamiliar, complex topic through podcasts",
+                    "method": [
+                        "Search podcasts that cover the topic",
+                        "Review discussions for insights",
+                        "Identify experts or influencers",
+                        "Extract key themes from episodes",
+                        "Develop an informed understanding"
+                    ]
+                },
+                {
+                    "description": "Identify products and trends worth exploring",
+                    "method": [
+                        "Monitor discussions of relevant products",
+                        "Track feedback and listener sentiment",
+                        "Analyze trends in product mentions",
+                        "Identify emerging products",
+                        "Evaluate potential product-market fit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "syften",
+            "name": "Syften",
+            "url": "https://syften.com",
+            "description": "Monitor web mentions and specific keywords across platforms",
+            "type": "tool",
+            "pricing": "paid",
+            "tags": [
+                "monitoring",
+                "social-listening",
+                "keyword-tracking",
+                "market-research",
+                "trend-detection"
+            ],
+            "useCases": [
+                {
+                    "description": "Track conversations about specific topics or problems",
+                    "method": [
+                        "Set up keyword monitoring",
+                        "Configure platform filters",
+                        "Create alert rules",
+                        "Monitor sentiment trends",
+                        "Export mention data for analysis"
+                    ]
+                },
+                {
+                    "description": "Monitor competitor mentions and sentiment",
+                    "method": [
+                        "Add competitor names and variations",
+                        "Set up negative keyword filters",
+                        "Track mention velocity",
+                        "Analyze sentiment patterns",
+                        "Identify key discussion platforms"
+                    ]
+                },
+                {
+                    "description": "Adjust filters and queries for refined keyword tracking",
+                    "method": [
+                        "Use advanced filters to narrow results",
+                        "Track specific phrases like 'pain points' or 'solution requests'",
+                        "Generate queries related to 'advice requests'",
+                        "Incorporate GPT-generated variations",
+                        "Evaluate profitability and potential relevance"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "y-combinator-rfs",
+            "name": "Y Combinator RFS",
+            "url": "https://www.ycombinator.com/rfs",
+            "description": "List of 'Requests for Startups' from Y Combinator highlighting areas of interest",
+            "type": "resource",
+            "pricing": "free",
+            "tags": [
+                "startup-ideas",
+                "market-opportunities",
+                "investor-insights",
+                "trend-discovery",
+                "innovation"
+            ],
+            "useCases": [
+                {
+                    "description": "Explore areas of interest for potential startup ideas",
+                    "method": [
+                        "Browse RFS categories",
+                        "Identify high-interest areas",
+                        "Analyze reasons behind Y Combinator’s focus",
+                        "Evaluate market viability",
+                        "Cross-reference with other industry trends"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "kleo-linkedin-extension",
+            "name": "Kleo LinkedIn Extension",
+            "url": "https://getkleo.com",
+            "description": "LinkedIn extension for tracking trending posts and industry trends",
+            "type": "tool",
+            "pricing": "paid",
+            "tags": [
+                "linkedin-research",
+                "trend-tracking",
+                "professional-networking",
+                "market-research",
+                "content-analysis"
+            ],
+            "useCases": [
+                {
+                    "description": "Monitor industry discussions and trends on LinkedIn",
+                    "method": [
+                        "Track trending posts",
+                        "Analyze engagement patterns",
+                        "Identify key opinion leaders",
+                        "Monitor topic trends",
+                        "Export trending content"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "mckinsey",
+            "name": "McKinsey",
+            "url": "https://www.mckinsey.com",
+            "description": "Management consulting firm providing market research reports and insights",
+            "type": "resource",
+            "pricing": "paid",
+            "tags": [
+                "market-research",
+                "industry-insights",
+                "strategy",
+                "consulting",
+                "trend-analysis"
+            ],
+            "useCases": [
+                {
+                    "description": "Access industry reports for strategic decision-making",
+                    "method": [
+                        "Search reports by industry",
+                        "Analyze market trends and forecasts",
+                        "Identify key insights and opportunities",
+                        "Compare data across markets",
+                        "Use insights for planning and strategy"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "gartner",
+            "name": "Gartner",
+            "url": "https://www.gartner.com",
+            "description": "Technology research and advisory firm providing industry insights and trends",
+            "type": "resource",
+            "pricing": "paid",
+            "tags": [
+                "technology-trends",
+                "market-research",
+                "consulting",
+                "strategy",
+                "forecasting"
+            ],
+            "useCases": [
+                {
+                    "description": "Utilize Gartner insights to inform technology and business strategies",
+                    "method": [
+                        "Review reports on technology trends",
+                        "Analyze market forecasts",
+                        "Evaluate competitive insights",
+                        "Identify major industry changes",
+                        "Incorporate findings into strategy"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "forrester",
+            "name": "Forrester",
+            "url": "https://www.forrester.com",
+            "description": "Research and advisory firm specializing in customer experience and technology",
+            "type": "resource",
+            "pricing": "paid",
+            "tags": [
+                "customer-insights",
+                "technology-trends",
+                "market-research",
+                "strategy",
+                "user-experience"
+            ],
+            "useCases": [
+                {
+                    "description": "Access insights on customer experience and technology trends",
+                    "method": [
+                        "Browse reports on customer behavior",
+                        "Analyze trends in technology adoption",
+                        "Identify user experience improvements",
+                        "Leverage data for user-centric strategies",
+                        "Forecast future consumer trends"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "statista",
+            "name": "Statista",
+            "url": "https://statista.com",
+            "description": "Statistics and market data platform",
+            "type": "platform",
+            "pricing": "paid",
+            "tags": [
+                "market-data",
+                "statistics",
+                "industry-research",
+                "trend-analysis",
+                "demographic-data"
+            ],
+            "useCases": [
+                {
+                    "description": "Research market sizes and trends",
+                    "method": [
+                        "Search by industry or topic",
+                        "Download relevant statistics",
+                        "Compare market data",
+                        "Track industry trends",
+                        "Export data for analysis"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "pew-research",
+            "name": "Pew Research Center",
+            "url": "https://www.pewresearch.org",
+            "description": "Nonprofit research organization providing data on social trends and public opinion",
+            "type": "resource",
+            "pricing": "free",
+            "tags": [
+                "social-trends",
+                "public-opinion",
+                "demographics",
+                "market-research",
+                "survey-data"
+            ],
+            "useCases": [
+                {
+                    "description": "Explore data on societal trends and public opinions",
+                    "method": [
+                        "Browse research by topic",
+                        "Analyze demographic insights",
+                        "Download data on social issues",
+                        "Use findings for market segmentation",
+                        "Monitor shifts in public opinion"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ibisworld",
+            "name": "IBISWorld",
+            "url": "https://ibisworld.com",
+            "description": "Industry market research and reports platform",
+            "type": "platform",
+            "pricing": "paid",
+            "tags": [
+                "market-research",
+                "industry-analysis",
+                "competitive-landscape",
+                "market-size",
+                "trend-analysis"
+            ],
+            "useCases": [
+                {
+                    "description": "Analyze industry structure and trends",
+                    "method": [
+                        "Select industry report",
+                        "Review market size data",
+                        "Analyze competitive landscape",
+                        "Identify key success factors",
+                        "Track industry performance"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "our-world-in-data",
+            "name": "Our World in Data",
+            "url": "https://ourworldindata.org",
+            "description": "Research and data on global problems and trends",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "global-data",
+                "trend-analysis",
+                "demographic-data",
+                "market-research",
+                "social-trends"
+            ],
+            "useCases": [
+                {
+                    "description": "Research global trends and societal changes",
+                    "method": [
+                        "Browse research topics",
+                        "Download relevant datasets",
+                        "Analyze trend charts",
+                        "Compare regional data",
+                        "Export visualizations"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "hg-insights",
+            "name": "HG Insights",
+            "url": "https://hginsights.com",
+            "description": "Platform for tracking technology adoption and market trends",
+            "type": "platform",
+            "pricing": "paid",
+            "tags": [
+                "technology-trends",
+                "market-research",
+                "competitive-insights",
+                "data-driven",
+                "strategy"
+            ],
+            "useCases": [
+                {
+                    "description": "Track technology adoption and identify competitive market trends",
+                    "method": [
+                        "Analyze data on technology use",
+                        "Track adoption rates across industries",
+                        "Identify market gaps",
+                        "Export data for competitive analysis",
+                        "Incorporate insights into strategic planning"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "patent-drop",
+            "name": "Patent Drop",
+            "url": "https://patentdrop.substack.com",
+            "description": "Newsletter analyzing latest patent filings and tech innovations",
+            "type": "newsletter",
+            "pricing": "freemium",
+            "tags": [
+                "patent-research",
+                "innovation-tracking",
+                "technology-trends",
+                "competitive-intelligence",
+                "market-opportunities"
+            ],
+            "useCases": [
+                {
+                    "description": "Track emerging technologies and innovations",
+                    "method": [
+                        "Subscribe to patent analysis newsletter",
+                        "Review weekly patent insights",
+                        "Identify technology trends",
+                        "Monitor competitor innovations",
+                        "Spot market opportunities"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "lens",
+            "name": "The Lens",
+            "url": "https://lens.org",
+            "description": "Open patent and scholarly search platform",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "patent-research",
+                "academic-research",
+                "innovation-tracking",
+                "market-research",
+                "technology-trends"
+            ],
+            "useCases": [
+                {
+                    "description": "Research patent landscapes and technology trends",
+                    "method": [
+                        "Search patent databases",
+                        "Analyze patent citations",
+                        "Track technology development",
+                        "Monitor competitor patents",
+                        "Identify white spaces"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "consensus",
+            "name": "Consensus",
+            "url": "https://consensus.app",
+            "description": "AI-powered academic paper search engine",
+            "type": "tool",
+            "pricing": "freemium",
+            "tags": [
+                "academic-research",
+                "literature-review",
+                "market-research",
+                "scientific-evidence",
+                "trend-validation"
+            ],
+            "useCases": [
+                {
+                    "description": "Find scientific evidence for market hypotheses",
+                    "method": [
+                        "Enter research question",
+                        "Review paper summaries",
+                        "Analyze consensus views",
+                        "Export key findings",
+                        "Track research developments"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "elicit",
+            "name": "Elicit",
+            "url": "https://elicit.org",
+            "description": "AI-driven literature review tool for finding academic research",
+            "type": "tool",
+            "pricing": "free",
+            "tags": [
+                "literature-review",
+                "academic-research",
+                "market-research",
+                "data-analysis",
+                "ai-tools"
+            ],
+            "useCases": [
+                {
+                    "description": "Conduct literature reviews to identify research gaps",
+                    "method": [
+                        "Enter a research question",
+                        "Browse relevant papers",
+                        "Analyze key insights",
+                        "Identify research gaps",
+                        "Export summaries for further study"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "google-scholar",
+            "name": "Google Scholar",
+            "url": "https://scholar.google.com",
+            "description": "Academic search engine for scholarly articles across various fields",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "academic-research",
+                "literature-review",
+                "market-research",
+                "scientific-data",
+                "trend-analysis"
+            ],
+            "useCases": [
+                {
+                    "description": "Search for academic papers relevant to market research",
+                    "method": [
+                        "Enter keywords or topics",
+                        "Filter results by date or publication",
+                        "Review paper abstracts",
+                        "Download full-text articles",
+                        "Save citations for reference"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ieee-xplore",
+            "name": "IEEE Xplore",
+            "url": "https://ieeexplore.ieee.org",
+            "description": "Research database for engineering, computing, and technology papers",
+            "type": "platform",
+            "pricing": "paid",
+            "tags": [
+                "engineering-research",
+                "technology-trends",
+                "academic-research",
+                "market-research",
+                "innovation"
+            ],
+            "useCases": [
+                {
+                    "description": "Access technical research papers for engineering and technology",
+                    "method": [
+                        "Search by keywords or author",
+                        "Filter by conference or journal",
+                        "Review abstracts for relevance",
+                        "Download full papers",
+                        "Analyze cited sources for trends"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "pubmed",
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov",
+            "description": "Database of biomedical and life sciences research articles",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "biomedical-research",
+                "academic-research",
+                "health-trends",
+                "scientific-data",
+                "market-research"
+            ],
+            "useCases": [
+                {
+                    "description": "Access health and biomedical research for market insights",
+                    "method": [
+                        "Search for specific topics or conditions",
+                        "Filter by publication date",
+                        "Download research articles",
+                        "Analyze abstracts for trends",
+                        "Use data for health-related market analysis"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "semantic-scholar",
+            "name": "Semantic Scholar",
+            "url": "https://semanticscholar.org",
+            "description": "AI-powered research paper search engine",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "academic-research",
+                "literature-review",
+                "market-research",
+                "technology-trends",
+                "innovation-tracking"
+            ],
+            "useCases": [
+                {
+                    "description": "Research academic developments in your market",
+                    "method": [
+                        "Search by topic or keyword",
+                        "Filter by date and impact",
+                        "Review citation networks",
+                        "Track research trends",
+                        "Set up paper alerts"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "researchgate",
+            "name": "ResearchGate",
+            "url": "https://researchgate.net",
+            "description": "Network for researchers to share publications and connect",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "academic-network",
+                "research-sharing",
+                "literature-review",
+                "scientific-data",
+                "market-research"
+            ],
+            "useCases": [
+                {
+                    "description": "Find recent studies and network with academics",
+                    "method": [
+                        "Search by topic or author",
+                        "Browse research publications",
+                        "Connect with researchers",
+                        "Download papers for analysis",
+                        "Follow relevant researchers"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "crunchbase",
+            "name": "Crunchbase",
+            "url": "https://crunchbase.com",
+            "description": "Database of companies, funding rounds, and acquisitions",
+            "type": "platform",
+            "pricing": "paid",
+            "tags": [
+                "company-research",
+                "funding-data",
+                "market-analysis",
+                "competitor-tracking",
+                "investment-trends"
+            ],
+            "useCases": [
+                {
+                    "description": "Research company funding and market movements",
+                    "method": [
+                        "Search companies by industry",
+                        "Track funding rounds",
+                        "Analyze investor patterns",
+                        "Monitor acquisitions",
+                        "Export company data"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "growjo",
+            "name": "Growjo",
+            "url": "https://growjo.com",
+            "description": "Track fastest-growing companies and hiring trends",
+            "type": "platform",
+            "pricing": "freemium",
+            "tags": [
+                "company-growth",
+                "market-research",
+                "hiring-trends",
+                "industry-analysis",
+                "competitor-tracking"
+            ],
+            "useCases": [
+                {
+                    "description": "Identify growing companies in your market",
+                    "method": [
+                        "Search by industry",
+                        "Track growth metrics",
+                        "Monitor hiring patterns",
+                        "Analyze revenue estimates",
+                        "Export company lists"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "sec-edgar",
+            "name": "SEC EDGAR",
+            "url": "https://www.sec.gov/edgar",
+            "description": "Database of public company filings",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "financial-research",
+                "company-analysis",
+                "market-research",
+                "competitor-analysis",
+                "regulatory-filings"
+            ],
+            "useCases": [
+                {
+                    "description": "Research public company strategies and markets",
+                    "method": [
+                        "Search company filings",
+                        "Review annual reports",
+                        "Analyze market discussions",
+                        "Track industry risks",
+                        "Monitor competitive landscape"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "candid",
+            "name": "Candid",
+            "url": "https://candid.org",
+            "description": "Platform for nonprofit financial data and analysis",
+            "type": "platform",
+            "pricing": "paid",
+            "tags": [
+                "nonprofit-research",
+                "financial-data",
+                "market-research",
+                "social-impact",
+                "funding-analysis"
+            ],
+            "useCases": [
+                {
+                    "description": "Evaluate nonprofit financial performance and trends",
+                    "method": [
+                        "Search nonprofits by category",
+                        "Review financial data",
+                        "Analyze funding sources",
+                        "Track donation patterns",
+                        "Export nonprofit data"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "fdd-exchange",
+            "name": "FDD Exchange",
+            "url": "https://fdexchange.com",
+            "description": "Platform for Franchise Disclosure Documents (FDD) analysis",
+            "type": "platform",
+            "pricing": "paid",
+            "tags": [
+                "franchise-research",
+                "business-analysis",
+                "market-research",
+                "competitive-intelligence",
+                "regulatory-compliance"
+            ],
+            "useCases": [
+                {
+                    "description": "Analyze franchise operations and industry threats",
+                    "method": [
+                        "Search franchise FDDs by industry",
+                        "Review business operations",
+                        "Analyze customer acquisition strategies",
+                        "Monitor competitive positioning",
+                        "Export FDD reports"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "minneapolis-fed-beige-book",
+            "name": "Minneapolis Fed Beige Book Archive",
+            "url": "https://www.minneapolisfed.org/region-and-community/regional-economic-indicators/beige-book-archive",
+            "description": "Regional economic conditions report archive",
+            "type": "resource",
+            "pricing": "free",
+            "tags": [
+                "economic-research",
+                "market-analysis",
+                "regional-data",
+                "industry-trends",
+                "economic-indicators"
+            ],
+            "useCases": [
+                {
+                    "description": "Analyze regional economic trends and opportunities",
+                    "method": [
+                        "Review latest reports",
+                        "Compare regional differences",
+                        "Track industry trends",
+                        "Monitor economic indicators",
+                        "Identify growth areas"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "govtrack-us",
+            "name": "GovTrack.us",
+            "url": "https://www.govtrack.us",
+            "description": "Platform to monitor proposed U.S. federal legislation",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "legislation-tracking",
+                "regulatory-research",
+                "market-research",
+                "policy-analysis",
+                "government-data"
+            ],
+            "useCases": [
+                {
+                    "description": "Monitor regulatory changes affecting your market",
+                    "method": [
+                        "Track relevant bills",
+                        "Set up email alerts",
+                        "Monitor committee activities",
+                        "Analyze voting patterns",
+                        "Export legislative data"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "grouply",
+            "name": "Grouply",
+            "url": "https://grouply.io",
+            "description": "Platform to follow niche online communities for unfiltered insights",
+            "type": "platform",
+            "pricing": "paid",
+            "tags": [
+                "social-listening",
+                "community-insights",
+                "market-research",
+                "trend-tracking",
+                "consumer-behavior"
+            ],
+            "useCases": [
+                {
+                    "description": "Gain insights into user needs by following discussions in niche communities",
+                    "method": [
+                        "Search by community topic",
+                        "Identify active discussions",
+                        "Analyze sentiment and feedback",
+                        "Track emerging topics",
+                        "Engage with community for further insights"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "disboard",
+            "name": "Disboard",
+            "url": "https://disboard.org",
+            "description": "Directory for discovering Discord servers by topic",
+            "type": "directory",
+            "pricing": "free",
+            "tags": [
+                "community-research",
+                "discord-communities",
+                "market-research",
+                "social-listening",
+                "audience-research"
+            ],
+            "useCases": [
+                {
+                    "description": "Find relevant Discord communities for market research",
+                    "method": [
+                        "Search by topic or industry",
+                        "Review server descriptions",
+                        "Check member counts",
+                        "Analyze activity levels",
+                        "Join relevant servers for monitoring"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "slofile",
+            "name": "Slofile",
+            "url": "https://slofile.com",
+            "description": "Directory of public Slack communities",
+            "type": "directory",
+            "pricing": "free",
+            "tags": [
+                "community-research",
+                "slack-communities",
+                "market-research",
+                "professional-networks",
+                "audience-research"
+            ],
+            "useCases": [
+                {
+                    "description": "Discover professional communities in your market",
+                    "method": [
+                        "Browse by category",
+                        "Check member counts",
+                        "Review community rules",
+                        "Analyze discussion topics",
+                        "Track community growth"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "hive-index",
+            "name": "Hive Index",
+            "url": "https://hiveindex.com",
+            "description": "Directory of online communities and discussion groups",
+            "type": "directory",
+            "pricing": "free",
+            "tags": [
+                "community-discovery",
+                "market-research",
+                "social-listening",
+                "niche-communities"
+            ],
+            "useCases": [
+                {
+                    "description": "Find relevant online communities for market research",
+                    "method": [
+                        "Search by topic or industry",
+                        "Filter by platform type",
+                        "Evaluate community sizes",
+                        "Check activity levels",
+                        "Identify community focus areas"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "g2",
+            "name": "G2",
+            "url": "https://www.g2.com",
+            "description": "User reviews and ratings for software and business solutions",
+            "type": "platform",
+            "pricing": "freemium",
+            "tags": [
+                "software-reviews",
+                "competitor-analysis",
+                "customer-insights",
+                "market-research",
+                "product-comparison"
+            ],
+            "useCases": [
+                {
+                    "description": "Analyze user feedback on software products",
+                    "method": [
+                        "Search by software category",
+                        "Filter by review rating",
+                        "Read detailed user feedback",
+                        "Identify common complaints and praises",
+                        "Compare competing products"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "capterra",
+            "name": "Capterra",
+            "url": "https://www.capterra.com",
+            "description": "User reviews and comparisons for business software solutions",
+            "type": "platform",
+            "pricing": "freemium",
+            "tags": [
+                "software-reviews",
+                "customer-insights",
+                "competitor-analysis",
+                "product-research",
+                "market-research"
+            ],
+            "useCases": [
+                {
+                    "description": "Collect insights on software solutions for market research",
+                    "method": [
+                        "Browse by software type",
+                        "Filter by industry",
+                        "Read user reviews and ratings",
+                        "Analyze feedback on features",
+                        "Identify software gaps in the market"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "app-store",
+            "name": "App Store",
+            "url": "https://www.apple.com/app-store/",
+            "description": "Platform for downloading and reviewing mobile applications",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "app-reviews",
+                "customer-insights",
+                "market-research",
+                "competitor-analysis",
+                "mobile-apps"
+            ],
+            "useCases": [
+                {
+                    "description": "Analyze user reviews on mobile applications",
+                    "method": [
+                        "Search by app category",
+                        "Filter by review rating",
+                        "Read detailed user reviews",
+                        "Identify common issues and praises",
+                        "Track app popularity trends"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "twitch-tracker",
+            "name": "TwitchTracker",
+            "url": "https://twitchtracker.com",
+            "description": "Platform for tracking Twitch streaming analytics and trends",
+            "type": "tool",
+            "pricing": "free",
+            "tags": [
+                "streaming-analytics",
+                "content-analysis",
+                "audience-research",
+                "market-research",
+                "trend-tracking"
+            ],
+            "useCases": [
+                {
+                    "description": "Research streaming trends and audience preferences",
+                    "method": [
+                        "Track popular streamers",
+                        "Analyze viewer statistics",
+                        "Monitor peak viewing times",
+                        "Compare streaming categories",
+                        "Export data for further analysis"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "viewstats",
+            "name": "ViewStats",
+            "url": "https://viewstats.com",
+            "description": "Tool for tracking viewership statistics across streaming platforms",
+            "type": "tool",
+            "pricing": "paid",
+            "tags": [
+                "content-analysis",
+                "viewership-tracking",
+                "trend-analysis",
+                "market-research",
+                "social-media-insights"
+            ],
+            "useCases": [
+                {
+                    "description": "Analyze content performance on streaming platforms",
+                    "method": [
+                        "Monitor content popularity",
+                        "Compare viewer engagement across platforms",
+                        "Track category trends",
+                        "Export viewership data",
+                        "Analyze viewer demographics"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "socialblade",
+            "name": "Social Blade",
+            "url": "https://socialblade.com",
+            "description": "Social media statistics and analytics platform",
+            "type": "tool",
+            "pricing": "freemium",
+            "tags": [
+                "social-analytics",
+                "competitor-analysis",
+                "market-research",
+                "influencer-tracking",
+                "audience-research"
+            ],
+            "useCases": [
+                {
+                    "description": "Track growth patterns in social media engagement",
+                    "method": [
+                        "Compare creator growth rates",
+                        "Analyze posting patterns",
+                        "Track engagement metrics",
+                        "Monitor follower growth",
+                        "Export historical data"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tiktok-trends",
+            "name": "TikTok Trends",
+            "url": "https://ads.tiktok.com/trends",
+            "description": "Platform for tracking popular TikTok content and hashtags",
+            "type": "tool",
+            "pricing": "free",
+            "tags": [
+                "social-media-trends",
+                "content-analysis",
+                "audience-research",
+                "market-research",
+                "trend-tracking"
+            ],
+            "useCases": [
+                {
+                    "description": "Monitor trending content and hashtags on TikTok",
+                    "method": [
+                        "Search trending topics",
+                        "Analyze popular hashtags",
+                        "Track content creators in specific niches",
+                        "Observe audience engagement levels",
+                        "Export trend data for analysis"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "pinterest-trends",
+            "name": "Pinterest Trends",
+            "url": "https://business.pinterest.com/trends",
+            "description": "Platform for tracking trending content and popular pins on Pinterest",
+            "type": "tool",
+            "pricing": "free",
+            "tags": [
+                "social-media-trends",
+                "content-analysis",
+                "market-research",
+                "audience-research",
+                "trend-tracking"
+            ],
+            "useCases": [
+                {
+                    "description": "Track visual and design trends in consumer markets",
+                    "method": [
+                        "Browse trending pins by category",
+                        "Analyze engagement on popular content",
+                        "Track seasonal and year-round trends",
+                        "Identify popular visual themes",
+                        "Export data for market analysis"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "facebook-groups",
+            "name": "Facebook Groups",
+            "url": "https://www.facebook.com/groups/",
+            "description": "Platform for connecting with interest-based communities and groups",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "social-listening",
+                "community-research",
+                "market-research",
+                "audience-insights",
+                "trend-tracking"
+            ],
+            "useCases": [
+                {
+                    "description": "Gain insights into target audience preferences through group discussions",
+                    "method": [
+                        "Join relevant groups by industry",
+                        "Monitor discussions and topics",
+                        "Engage with group members",
+                        "Analyze common issues and needs",
+                        "Track trending discussions over time"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "twitter-advanced-search",
+            "name": "Twitter Advanced Search",
+            "url": "https://twitter.com/search-advanced",
+            "description": "Search tool for locating tweets and conversations by keywords and filters",
+            "type": "tool",
+            "pricing": "free",
+            "tags": [
+                "social-listening",
+                "trend-tracking",
+                "audience-research",
+                "market-research",
+                "sentiment-analysis"
+            ],
+            "useCases": [
+                {
+                    "description": "Monitor Twitter discussions on specific topics or brands",
+                    "method": [
+                        "Enter relevant keywords and hashtags",
+                        "Filter by language, location, or date",
+                        "Analyze tweet engagement levels",
+                        "Track user sentiment",
+                        "Identify influencers discussing the topic"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "find-a-forum",
+            "name": "Find a Forum",
+            "url": "https://findaforum.net",
+            "description": "Directory of online forums for various industries and interests",
+            "type": "directory",
+            "pricing": "free",
+            "tags": [
+                "community-research",
+                "market-research",
+                "social-listening",
+                "audience-insights",
+                "niche-communities"
+            ],
+            "useCases": [
+                {
+                    "description": "Discover niche forums relevant to specific markets",
+                    "method": [
+                        "Search for forums by topic or industry",
+                        "Evaluate forum activity levels",
+                        "Read popular discussions",
+                        "Analyze community interests",
+                        "Engage with forum members for feedback"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "proboards",
+            "name": "Proboards",
+            "url": "https://www.proboards.com",
+            "description": "Platform for creating and discovering niche forums",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "community-research",
+                "market-research",
+                "social-listening",
+                "audience-insights",
+                "forum-discussions"
+            ],
+            "useCases": [
+                {
+                    "description": "Discover niche communities and discussions on Proboards forums",
+                    "method": [
+                        "Search for forums by keyword",
+                        "Review community posts",
+                        "Analyze user interactions",
+                        "Identify recurring topics",
+                        "Engage in discussions for deeper insights"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ngram",
+            "name": "NGram",
+            "url": "https://books.google.com/ngrams",
+            "description": "Google tool for analyzing the frequency of words or phrases over time",
+            "type": "tool",
+            "pricing": "free",
+            "tags": [
+                "keyword-research",
+                "historical-trends",
+                "market-research",
+                "content-analysis",
+                "trend-analysis"
+            ],
+            "useCases": [
+                {
+                    "description": "Analyze long-term usage trends of terms or phrases",
+                    "method": [
+                        "Enter keywords or phrases",
+                        "Set date range for analysis",
+                        "Review frequency over time",
+                        "Compare multiple terms",
+                        "Export data for further analysis"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "answer-the-public",
+            "name": "Answer the Public",
+            "url": "https://answerthepublic.com",
+            "description": "Tool for generating questions and keyword ideas based on search data",
+            "type": "tool",
+            "pricing": "freemium",
+            "tags": [
+                "keyword-research",
+                "content-ideas",
+                "customer-insights",
+                "market-research",
+                "trend-analysis"
+            ],
+            "useCases": [
+                {
+                    "description": "Generate keyword ideas based on user queries",
+                    "method": [
+                        "Enter relevant keywords",
+                        "Browse question-based suggestions",
+                        "Identify popular search terms",
+                        "Analyze keyword relevance",
+                        "Export data for content strategy"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "alsoasked",
+            "name": "AlsoAsked",
+            "url": "https://alsoasked.com",
+            "description": "Tool for exploring related questions people ask on Google",
+            "type": "tool",
+            "pricing": "paid",
+            "tags": [
+                "keyword-research",
+                "content-ideas",
+                "market-research",
+                "seo",
+                "customer-insights"
+            ],
+            "useCases": [
+                {
+                    "description": "Identify related questions to expand search landscape",
+                    "method": [
+                        "Enter primary keyword",
+                        "Browse related question branches",
+                        "Analyze relevance to target audience",
+                        "Identify content gaps",
+                        "Export data for content development"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "change-detection",
+            "name": "Change Detection",
+            "url": "https://changedetection.com",
+            "description": "Monitor website changes and updates automatically",
+            "type": "tool",
+            "pricing": "freemium",
+            "tags": [
+                "website-monitoring",
+                "competitor-tracking",
+                "market-research",
+                "change-tracking",
+                "automated-monitoring"
+            ],
+            "useCases": [
+                {
+                    "description": "Track competitor website changes and updates",
+                    "method": [
+                        "Set up page monitoring",
+                        "Configure change sensitivity",
+                        "Set monitoring frequency",
+                        "Define notification rules",
+                        "Archive changed content"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "change-tower",
+            "name": "Change Tower",
+            "url": "https://changetower.com",
+            "description": "Tool for monitoring website changes and tracking updates",
+            "type": "tool",
+            "pricing": "freemium",
+            "tags": [
+                "website-monitoring",
+                "competitor-analysis",
+                "change-tracking",
+                "market-research",
+                "automation"
+            ],
+            "useCases": [
+                {
+                    "description": "Monitor competitor websites for updates",
+                    "method": [
+                        "Add URLs to monitor",
+                        "Customize monitoring frequency",
+                        "Define specific elements to track",
+                        "Set up alert notifications",
+                        "Analyze changes over time"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "changemon",
+            "name": "Changemon",
+            "url": "https://changemon.com",
+            "description": "Advanced website change monitoring and alerting tool",
+            "type": "tool",
+            "pricing": "paid",
+            "tags": [
+                "change-monitoring",
+                "competitor-tracking",
+                "website-analysis",
+                "automated-alerts",
+                "market-research"
+            ],
+            "useCases": [
+                {
+                    "description": "Track specific competitor page changes",
+                    "method": [
+                        "Configure page monitoring",
+                        "Set up element-specific tracking",
+                        "Define change thresholds",
+                        "Create alert workflows",
+                        "Archive changes automatically"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "wappalyzer",
+            "name": "Wappalyzer",
+            "url": "https://www.wappalyzer.com",
+            "description": "Identify technologies used on websites",
+            "type": "tool",
+            "pricing": "freemium",
+            "tags": [
+                "technology-stack",
+                "competitor-analysis",
+                "market-research",
+                "web-technology",
+                "technical-research"
+            ],
+            "useCases": [
+                {
+                    "description": "Analyze competitor technology stacks",
+                    "method": [
+                        "Scan competitor websites",
+                        "Identify used technologies",
+                        "Track technology trends",
+                        "Compare tech stacks",
+                        "Export technology reports"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "wayback-machine",
+            "name": "Wayback Machine",
+            "url": "https://archive.org/web",
+            "description": "Internet archive for viewing historical versions of websites",
+            "type": "tool",
+            "pricing": "free",
+            "tags": [
+                "website-history",
+                "competitor-analysis",
+                "content-tracking",
+                "market-research",
+                "trend-analysis"
+            ],
+            "useCases": [
+                {
+                    "description": "Analyze the progression of competitor websites",
+                    "method": [
+                        "Enter URL in Wayback Machine",
+                        "Select past snapshots",
+                        "Compare design and content over time",
+                        "Identify changes in messaging",
+                        "Track historical branding shifts"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "similarweb",
+            "name": "SimilarWeb",
+            "url": "https://similarweb.com",
+            "description": "Website traffic and analytics comparison platform",
+            "type": "tool",
+            "pricing": "freemium",
+            "tags": [
+                "competitor-analysis",
+                "traffic-analysis",
+                "market-research",
+                "digital-marketing",
+                "audience-insights"
+            ],
+            "useCases": [
+                {
+                    "description": "Analyze competitor traffic and marketing strategies",
+                    "method": [
+                        "Enter competitor domain",
+                        "Review traffic sources",
+                        "Analyze audience demographics",
+                        "Compare multiple competitors",
+                        "Track seasonal trends"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "appmagic",
+            "name": "AppMagic",
+            "url": "https://appmagic.rocks",
+            "description": "Platform for analyzing app performance metrics and market trends",
+            "type": "tool",
+            "pricing": "paid",
+            "tags": [
+                "app-analytics",
+                "competitor-analysis",
+                "market-research",
+                "mobile-apps",
+                "trend-tracking"
+            ],
+            "useCases": [
+                {
+                    "description": "Identify top-performing apps and track app market trends",
+                    "method": [
+                        "Search by app category",
+                        "Analyze download and revenue metrics",
+                        "Review user demographic data",
+                        "Compare app engagement levels",
+                        "Track category performance over time"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "koala-shopify-inspector",
+            "name": "Koala Shopify Inspector",
+            "url": "https://koala-app.com",
+            "description": "Tool for tracking product trends within Shopify stores",
+            "type": "tool",
+            "pricing": "paid",
+            "tags": [
+                "ecommerce",
+                "market-research",
+                "competitor-analysis",
+                "product-tracking",
+                "shopify"
+            ],
+            "useCases": [
+                {
+                    "description": "Analyze popular products and e-commerce trends",
+                    "method": [
+                        "Track Shopify store product lists",
+                        "Monitor product availability",
+                        "Analyze pricing trends",
+                        "Identify best-selling items",
+                        "Export data for further research"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "junglescout",
+            "name": "JungleScout",
+            "url": "https://junglescout.com",
+            "description": "Amazon market research and product discovery platform",
+            "type": "tool",
+            "pricing": "paid",
+            "tags": [
+                "ecommerce-research",
+                "market-analysis",
+                "product-research",
+                "competitor-tracking",
+                "sales-estimation"
+            ],
+            "useCases": [
+                {
+                    "description": "Research product market potential on Amazon",
+                    "method": [
+                        "Use product database",
+                        "Analyze sales estimates",
+                        "Review competitor pricing",
+                        "Track product trends",
+                        "Validate market demand"
+                    ]
+                },
+                {
+                    "description": "Monitor competitor product performance",
+                    "method": [
+                        "Track competitor listings",
+                        "Analyze price changes",
+                        "Monitor inventory levels",
+                        "Review seasonal trends",
+                        "Export performance data"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "reviewmeta",
+            "name": "ReviewMeta",
+            "url": "https://reviewmeta.com",
+            "description": "Amazon review analysis and verification tool",
+            "type": "tool",
+            "pricing": "free",
+            "tags": [
+                "review-analysis",
+                "market-research",
+                "product-validation",
+                "customer-feedback",
+                "sentiment-analysis"
+            ],
+            "useCases": [
+                {
+                    "description": "Analyze product market reception and authentic feedback",
+                    "method": [
+                        "Enter Amazon product URL",
+                        "Review adjusted rating",
+                        "Analyze review patterns",
+                        "Identify verified reviews",
+                        "Export analysis data"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "anvaka",
+            "name": "Anvaka",
+            "url": "https://anvaka.github.io",
+            "description": "Tool for visualizing relationships within subreddits",
+            "type": "tool",
+            "pricing": "free",
+            "tags": [
+                "community-analysis",
+                "reddit-research",
+                "network-visualization",
+                "market-research",
+                "audience-research"
+            ],
+            "useCases": [
+                {
+                    "description": "Explore connections and adjacent interests within Reddit communities",
+                    "method": [
+                        "Enter subreddit of interest",
+                        "Visualize subreddit relationships",
+                        "Identify overlapping community interests",
+                        "Track community growth patterns",
+                        "Analyze cross-subreddit discussions"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "subreddit-stats",
+            "name": "Subreddit Stats",
+            "url": "https://subredditstats.com",
+            "description": "Platform for assessing subreddit activity, growth, and engagement",
+            "type": "tool",
+            "pricing": "free",
+            "tags": [
+                "community-analysis",
+                "reddit-research",
+                "audience-insights",
+                "trend-tracking",
+                "engagement-metrics"
+            ],
+            "useCases": [
+                {
+                    "description": "Evaluate subreddit activity and track interest trends",
+                    "method": [
+                        "Enter subreddit name",
+                        "Analyze post and comment frequency",
+                        "Review subscriber growth over time",
+                        "Track engagement metrics",
+                        "Identify high-engagement topics"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "gummysearch",
+            "name": "GummySearch",
+            "url": "https://gummysearch.com",
+            "description": "Tool for researching community insights on Reddit",
+            "type": "tool",
+            "pricing": "paid",
+            "tags": [
+                "community-research",
+                "reddit-research",
+                "audience-insights",
+                "social-listening",
+                "customer-feedback"
+            ],
+            "useCases": [
+                {
+                    "description": "Discover niche topics and trends in Reddit communities",
+                    "method": [
+                        "Search keywords relevant to your market",
+                        "Filter by subreddit or discussion type",
+                        "Analyze popular comments and posts",
+                        "Identify recurring pain points",
+                        "Monitor sentiment in discussions"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "appbot",
+            "name": "AppBot",
+            "url": "https://appbot.co",
+            "description": "Mobile app review monitoring and analysis platform",
+            "type": "tool",
+            "pricing": "paid",
+            "tags": [
+                "app-reviews",
+                "feedback-analysis",
+                "market-research",
+                "competitor-analysis",
+                "sentiment-tracking"
+            ],
+            "useCases": [
+                {
+                    "description": "Track app market sentiment and feature requests",
+                    "method": [
+                        "Monitor app store reviews",
+                        "Analyze sentiment trends",
+                        "Track feature requests",
+                        "Compare with competitors",
+                        "Generate insight reports"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "alternativeto",
+            "name": "AlternativeTo",
+            "url": "https://alternativeto.net",
+            "description": "Platform for discovering software alternatives based on user recommendations",
+            "type": "platform",
+            "pricing": "free",
+            "tags": [
+                "software-discovery",
+                "product-research",
+                "competitor-analysis",
+                "market-research",
+                "alternative-tools"
+            ],
+            "useCases": [
+                {
+                    "description": "Find similar tools for benchmarking or feature comparison",
+                    "method": [
+                        "Search by software or tool name",
+                        "Review alternative suggestions",
+                        "Analyze user reviews",
+                        "Compare feature sets",
+                        "Identify gaps in current solutions"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "facebook-ad-library",
+            "name": "Facebook Ad Library",
+            "url": "https://www.facebook.com/ads/library",
+            "description": "Platform for analyzing advertising trends and strategies across Facebook",
+            "type": "tool",
+            "pricing": "free",
+            "tags": [
+                "advertising-research",
+                "competitor-analysis",
+                "ad-tracking",
+                "market-research",
+                "social-media"
+            ],
+            "useCases": [
+                {
+                    "description": "Research competitor advertising strategies and trends",
+                    "method": [
+                        "Search by brand or keyword",
+                        "Review ad content and copy",
+                        "Analyze engagement levels",
+                        "Identify ad frequency",
+                        "Track ad placements and target audience"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "adbeat",
+            "name": "AdBeat",
+            "url": "https://adbeat.com",
+            "description": "Digital advertising intelligence platform",
+            "type": "tool",
+            "pricing": "paid",
+            "tags": [
+                "advertising-intelligence",
+                "competitor-analysis",
+                "market-research",
+                "ad-tracking",
+                "digital-marketing"
+            ],
+            "useCases": [
+                {
+                    "description": "Analyze competitor ad strategies and spending patterns",
+                    "method": [
+                        "Enter competitor domains",
+                        "Review ad spending trends",
+                        "Identify popular ad creatives",
+                        "Analyze placement performance",
+                        "Export ad data for analysis"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "kimola",
+            "name": "Kimola",
+            "url": "https://kimola.com",
+            "description": "Consumer insights and trend analysis platform",
+            "type": "tool",
+            "pricing": "paid",
+            "tags": [
+                "consumer-insights",
+                "market-research",
+                "trend-analysis",
+                "audience-research",
+                "data-analytics"
+            ],
+            "useCases": [
+                {
+                    "description": "Analyze consumer sentiments and trends across demographics",
+                    "method": [
+                        "Set up audience analysis parameters",
+                        "Track sentiment on topics",
+                        "Identify emerging trends",
+                        "Analyze demographic-specific data",
+                        "Export insights for strategy development"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "owletter",
+            "name": "Owletter",
+            "url": "https://owletter.com",
+            "description": "Email marketing campaign monitoring tool",
+            "type": "tool",
+            "pricing": "paid",
+            "tags": [
+                "email-marketing",
+                "competitor-tracking",
+                "market-research",
+                "campaign-analysis",
+                "content-monitoring"
+            ],
+            "useCases": [
+                {
+                    "description": "Monitor competitor email marketing strategies",
+                    "method": [
+                        "Set up email tracking for competitors",
+                        "Analyze email frequency",
+                        "Review content themes and CTAs",
+                        "Track seasonal campaign patterns",
+                        "Export campaign insights"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "feedly",
+            "name": "Feedly",
+            "url": "https://feedly.com",
+            "description": "News aggregation platform for monitoring industry updates",
+            "type": "platform",
+            "pricing": "freemium",
+            "tags": [
+                "news-aggregation",
+                "trend-tracking",
+                "content-discovery",
+                "market-research",
+                "media-monitoring"
+            ],
+            "useCases": [
+                {
+                    "description": "Follow industry news and track emerging topics",
+                    "method": [
+                        "Subscribe to relevant RSS feeds",
+                        "Organize topics by category",
+                        "Monitor updates on specific topics",
+                        "Track competitor news",
+                        "Export articles for further analysis"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "hexowatch",
+            "name": "HexoWatch",
+            "url": "https://hexowatch.com",
+            "description": "Automated tool for monitoring website changes",
+            "type": "tool",
+            "pricing": "paid",
+            "tags": [
+                "website-monitoring",
+                "competitor-analysis",
+                "change-tracking",
+                "market-research",
+                "content-monitoring"
+            ],
+            "useCases": [
+                {
+                    "description": "Track competitor website updates and content changes",
+                    "method": [
+                        "Set up competitor URLs",
+                        "Define specific page elements to monitor",
+                        "Configure change detection frequency",
+                        "Receive alerts on detected changes",
+                        "Analyze historical changes"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "redditlist",
+            "name": "RedditList",
+            "url": "https://redditlist.com",
+            "description": "Platform that tracks the top 5,000 subreddits, providing insights into subscriber counts, growth rates, and activity levels",
+            "type": "tool",
+            "pricing": "free",
+            "tags": [
+                "reddit-research",
+                "community-insights",
+                "trend-tracking",
+                "audience-research",
+                "social-listening"
+            ],
+            "useCases": [
+                {
+                    "description": "Discover popular subreddits to understand active large communities",
+                    "method": [
+                        "Search for subreddits with high subscriber counts",
+                        "Filter by category",
+                        "Review the most popular communities",
+                        "Identify where large audiences engage",
+                        "Plan outreach or content accordingly"
+                    ]
+                },
+                {
+                    "description": "Monitor subreddit growth to spot emerging communities",
+                    "method": [
+                        "Check for subreddits with rapid subscriber increases",
+                        "Identify new communities gaining traction",
+                        "Compare growth rates across subreddits",
+                        "Explore niches with high growth potential",
+                        "Follow fast-growing subreddits for trend tracking"
+                    ]
+                },
+                {
+                    "description": "Analyze subreddit activity levels to find engaged communities",
+                    "method": [
+                        "Filter subreddits by activity metrics",
+                        "Identify highly active communities",
+                        "Assess engagement by posts and comments",
+                        "Prioritize high-activity subreddits for market research",
+                        "Export activity data for analysis"
+                    ]
+                },
+                {
+                    "description": "Identify niche communities relevant to specific topics",
+                    "method": [
+                        "Use category filters to search subreddits by interest",
+                        "Discover smaller but dedicated communities",
+                        "Analyze relevance to target audience",
+                        "Explore engagement patterns within niches",
+                        "Save niche subreddit data for research"
+                    ]
+                },
+                {
+                    "description": "Plan content distribution to maximize engagement",
+                    "method": [
+                        "Identify active subreddits in your niche",
+                        "Evaluate subreddit rules and norms",
+                        "Plan content timing based on activity patterns",
+                        "Engage with community leaders if possible",
+                        "Track content performance across subreddits"
+                    ]
+                }
+            ]
+        }
+    ]
+}
